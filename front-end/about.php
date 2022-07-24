@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>HOAI NAM</title>
+    <title>Quang Minh</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -43,7 +43,7 @@
 						<div class="img mb-4" style="background-image: url(images/avatar00.jpg);"></div>
 						<div class="desc">
 							<h2 class="subheading">Hello I'm</h2>
-							<h1 class="mb-4">HOAI NAM</h1>
+              <h1 class="mb-4">Quang Minh</h1>
 							<p class="mb-4">I am A Blogger Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 							<ul class="ftco-social mt-3">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
